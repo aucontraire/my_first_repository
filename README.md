@@ -1,2 +1,2 @@
 # First Day Project
-Learning Git
+Learning Git at Holberton
